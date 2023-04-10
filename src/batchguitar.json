@@ -1,0 +1,34 @@
+{
+    "Guitar": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Brand": {"S": "Ibanez"},
+                  "Shape": {"S": "Stratocaster"},
+                  "Price": {"S": "2500.00"},
+                  "GuitarYear": {"S": "2023"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Brand": {"S": "Epiphone"},
+                  "Shape": {"S": "Les Paul"},
+                  "Price": {"S": "1500.00"},
+                  "GuitarYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Brand": {"S": "Tagima"},
+                  "Shape": {"S": "Stratocaster"},
+                  "Price": {"S": "1500.00"},
+                  "GuitarYear": {"S": "2023"}
+                }
+            }
+        }
+      ]
+}
