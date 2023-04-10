@@ -1,5 +1,6 @@
 # desafio-dio-dynamo
 Repositório contendo comandos utilizados para criar um dynamo no desafio.
+O repositório original foi feito baseado em albuns do Iron Maiden, foi feita uma modificação para salvar informações referentes a guitarras.
 
 Link do repositório original do curso: https://github.com/cassianobrexbit/dio-live-dynamodb
 
